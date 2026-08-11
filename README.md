@@ -75,13 +75,7 @@ of it is cheap (no per-pixel work), so even a full screen of flies stays at 60fp
 
 ## How to run
 
-```bash
-# either
-open index.html
-# or
-python3 -m http.server 8000
-# then visit http://localhost:8000
-```
+Live on GitHub Pages: https://agentic-experiment.github.io/soursops-mecopteron/
 
 ## Controls
 
